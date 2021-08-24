@@ -2,7 +2,7 @@
 ### Baptiste Angles, Yuhe Jin, Simon Kornblith, Andrea Tagliasacchi, Kwang Moo Yi
 This repository contains training and inference code for [MIST: Multiple Instance Spatial Transformer Network](https://arxiv.org/abs/1811.10725).
 
-![alt text](https://github.com/jyh2005xx/mist-cleanup/blob/master/images/mist_pipeline.png)
+![alt text](https://github.com/ubc-vision/mist/blob/main/images/mist_pipeline.png)
 ## Installation
 This code is implemented based on PyTorch. A conda environment is provided with all the dependencies:
 ```
